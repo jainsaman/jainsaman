@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saman Jain
-- 👀 I’m interested in Web development, App development, Design, and Cars.
+- 👀 I’m interested in Web development, Design, and Cars.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me - Connect with me on LinkedIn - https://www.linkedin.com/in/saman-jain || Instagram - https://www.instagram.com/i_saman12
 
